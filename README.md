@@ -1,5 +1,6 @@
 # lanalannister.github.io
 Private portfolio
 
-<h1> Be nice! <3 </h1> 
+<h1> Be nice! <3 Here it's a cute cat photo </h1> 
 
+  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
